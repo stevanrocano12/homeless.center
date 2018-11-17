@@ -1,0 +1,94 @@
+#Slogan{
+    font-size:50px;
+    margin-top: 50px; 
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    font-size: 15px;
+    color:cyan;
+}
+
+i{
+    color:lime;
+}
+
+h2,strong, h3{
+    color: white;
+}
+
+h4{
+    color:grey;
+}
+
+.donate, .getinvolved{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+h2{
+    text-align: center;
+}
+
+.team h2{
+    margin-bottom: 20px;
+    
+}
+
+.getinvolved{
+    margin-top: 20px;
+}
+
+.contact{
+    margin-top: 50px;
+}
+
+.contact h2{
+    margin-bottom: 40px;
+}
+
+.donate{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.donate h2{
+    margin-bottom: 20px;
+}
+
+.about h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar{
+    background-color: black !important
+}
+
+.navbar-brand {
+    color: cyan!important;
+}
+
+.nav-link {
+    color:cyan !important;
+}
+
+#Slogan {
+text-align: center !important;
+}
+
+navbar-toggler {
+    position: relative;
+}
+
+.options_title {
+    color: red !important;
+}
+
+.reviews {
+    position:center ;
+}
